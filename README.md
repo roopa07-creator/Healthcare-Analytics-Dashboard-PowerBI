@@ -21,12 +21,13 @@ This project presents an interactive healthcare analytics dashboard built using 
 To provide healthcare management with actionable insights into patient flow, operational efficiency, and financial performance.
 # Dashboard Preview
 
-### Overview
-[Overview Screenshot](Documents/Overview_Page.png.png)
+## Dashboard Preview
 
+### Overview Page
+![Overview](Overview_Page.png)
 
 ### Admissions Analysis
-![Admissions](Screenshots/Admissions_Analysis.png)
+![Admissions](Admissions_Analysis.png)
 
 ### Financial Analysis
-![Financial](Screenshots/Financial_Analysis.png)
+![Financial](Financial_Analysis.png)
