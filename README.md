@@ -22,7 +22,8 @@ To provide healthcare management with actionable insights into patient flow, ope
 # Dashboard Preview
 
 ### Overview
-Overview_Page.png
+[Overview Screenshot](Documents/Overview_Page.png.png)
+
 
 ### Admissions Analysis
 ![Admissions](Screenshots/Admissions_Analysis.png)
