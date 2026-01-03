@@ -22,7 +22,7 @@ To provide healthcare management with actionable insights into patient flow, ope
 # Dashboard Preview
 
 ### Overview
-![Overview](Screenshots/Overview_Page.png)
+https://github.com/roopa07-creator/Healthcare-Analytics-Dashboard-PowerBI/blob/main/Overview_Page.png.png
 
 ### Admissions Analysis
 ![Admissions](Screenshots/Admissions_Analysis.png)
