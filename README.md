@@ -19,15 +19,5 @@ This project presents an interactive healthcare analytics dashboard built using 
 
 ## Project Objective
 To provide healthcare management with actionable insights into patient flow, operational efficiency, and financial performance.
-# Dashboard Preview
 
-## Dashboard Preview
 
-### Overview Page
-![Overview](Overview_Page.png)
-
-### Admissions Analysis
-![Admissions](Admissions_Analysis.png)
-
-### Financial Analysis
-![Financial](Financial_Analysis.png)
